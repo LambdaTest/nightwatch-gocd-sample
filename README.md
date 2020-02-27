@@ -1,4 +1,4 @@
-# Running NightWatch and Selenium on LambdaTest
+# NightWatch gocd Sample
 ##### [NightWatch Documentation](http://nightwatchjs.org/)
 ![LAMBDATEST Logo](http://labs.lambdatest.com/images/fills-copy.svg)
 
